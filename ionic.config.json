@@ -1,0 +1,8 @@
+{
+  "name": "Interest App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "034c9979"
+}
